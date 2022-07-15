@@ -1,0 +1,78 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#root .table-container{
+  width: calc(100vw - 60px);
+  margin: 0 auto;
+}
+.table-container table thead th{
+  font-weight: 600;
+  text-align: left;
+  background: rgb(15, 136, 255, .5);
+} 
+.table-container table thead th:last-child, .table-container table tbody td:last-child{
+  text-align: center;
+  display: flex;
+} 
+.table-container table tbody td{
+  padding: 5px 16px;
+  text-align: left;
+}
+
+
+.button_wrapper{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 16px 30px;
+}
+
+.add-dailog .custom-input{
+  width: 96%;
+}
+
+@media screen and (max-width: 575px) {
+  #root .table-container{
+    width: calc(100vw - 30px);
+    margin: 0 auto;
+  }
+  .button_wrapper{
+    padding: 16px 20px;
+  }
+}

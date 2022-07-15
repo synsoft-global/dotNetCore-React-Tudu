@@ -1,0 +1,15 @@
+D:\Working Folder\TodoApp\TodoAPI\TodoDAL\bin\Debug\net5.0\TodoDAL.deps.json
+D:\Working Folder\TodoApp\TodoAPI\TodoDAL\bin\Debug\net5.0\TodoDAL.dll
+D:\Working Folder\TodoApp\TodoAPI\TodoDAL\bin\Debug\net5.0\TodoDAL.pdb
+D:\Working Folder\TodoApp\TodoAPI\TodoDAL\obj\Debug\net5.0\TodoDAL.csproj.AssemblyReference.cache
+D:\Working Folder\TodoApp\TodoAPI\TodoDAL\obj\Debug\net5.0\TodoDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working Folder\TodoApp\TodoAPI\TodoDAL\obj\Debug\net5.0\TodoDAL.AssemblyInfoInputs.cache
+D:\Working Folder\TodoApp\TodoAPI\TodoDAL\obj\Debug\net5.0\TodoDAL.AssemblyInfo.cs
+D:\Working Folder\TodoApp\TodoAPI\TodoDAL\obj\Debug\net5.0\TodoDAL.csproj.CoreCompileInputs.cache
+D:\Working Folder\TodoApp\TodoAPI\TodoDAL\obj\Debug\net5.0\TodoDAL.dll
+D:\Working Folder\TodoApp\TodoAPI\TodoDAL\obj\Debug\net5.0\refint\TodoDAL.dll
+D:\Working Folder\TodoApp\TodoAPI\TodoDAL\obj\Debug\net5.0\TodoDAL.pdb
+D:\Working Folder\TodoApp\TodoAPI\TodoDAL\obj\Debug\net5.0\ref\TodoDAL.dll
+D:\Working Folder\TodoApp\TodoAPI\TodoDAL\bin\Debug\net5.0\TodoDAL.runtimeconfig.json
+D:\Working Folder\TodoApp\TodoAPI\TodoDAL\bin\Debug\net5.0\TodoDAL.runtimeconfig.dev.json
+D:\Working Folder\TodoApp\TodoAPI\TodoDAL\obj\Debug\net5.0\TodoDAL.genruntimeconfig.cache
