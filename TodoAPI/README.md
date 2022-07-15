@@ -1,7 +1,6 @@
 # .NET Todo List Web API 
 
-This repo contains sample code in .net core using repository pattern on model first approach on entity framework. 
-The code connects to SQL server database. 
+This .net core project contains web api's to persorm Add, edit, update, delete and server side pagination listing. The code connects to SQL server database. 
 
 # Instruction
 

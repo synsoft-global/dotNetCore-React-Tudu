@@ -1,6 +1,6 @@
 # Todo Demo Project
 
-The project demostrates basic CRUD operation on a Todo list. We have created our own reussable component and have used the same while designing any of the higher order components.
+The frontend react project demostrates basic CRUD operation on a Todo list. 
 
 # Instruction 
 
